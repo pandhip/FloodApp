@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodApp", "FloodApp.csproj", "{5C2DC47A-E75D-4E30-BB7C-884D8F75E688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReadLibrary", "CSVReadLibrary\CSVReadLibrary.csproj", "{8744A3A7-EA41-4773-B40E-05E23E50BF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2DC47A-E75D-4E30-BB7C-884D8F75E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2DC47A-E75D-4E30-BB7C-884D8F75E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2DC47A-E75D-4E30-BB7C-884D8F75E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2DC47A-E75D-4E30-BB7C-884D8F75E688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8744A3A7-EA41-4773-B40E-05E23E50BF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8744A3A7-EA41-4773-B40E-05E23E50BF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8744A3A7-EA41-4773-B40E-05E23E50BF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8744A3A7-EA41-4773-B40E-05E23E50BF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D111720E-E818-438B-9C42-7EB568CFE29D}
+	EndGlobalSection
+EndGlobal
